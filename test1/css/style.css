@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+}
+.box-1 {
+	height: 100px;
+	width: 100px;
+	margin: 0;
+	padding: 0;
+	float: left;
+	background-color: red;
+}
+.box-2 {
+	height: 100px;
+	width: 100px;
+	margin: 0;
+	padding: 0;
+	float: right;
+	background-color: blue;
+
+}
+.box-3 {
+	height: 100px;
+	width: 100px;
+	bottom: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	background-color: yellow;
+
+}
+.box-4 {
+	height: 100px;
+	width: 100px;
+	bottom: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	background-color: orange;
+
+}
+
+.big {
+	height: 500px;
+	width: 500px;
+	margin: 0;
+	padding: 0;
+	background-color: red;
+	position: absolute;
+}
+.med {
+	height: 350px;
+	width: 350px;
+	margin: 0;
+	padding: 0;
+	background-color: blue;
+	position: absolute;
+	position-right: 150px; 
+
+}
+.small {
+	height: 250px;
+	width: 250px;
+	margin: 0;
+	padding: 0;
+	background-color: yellow;
+	position: absolute;
+
+}
+.red {
+	height: 150px;
+	width: 150px;
+	margin: 5px;
+	padding: 0;
+	background-color: red;
+	float: left;
+}
+.blue {
+	height: 150px;
+	width: 150px;
+	margin: 5px;
+	padding: 0;
+	background-color: blue;
+	float: left;
+
+}
+.yellow {
+	height: 150px;
+	width: 150px;
+	margin: 5px;
+	padding: 0;
+	background-color: yellow;
+	float: left;
+
+}
