@@ -47,6 +47,11 @@ footer {
 		background-color: yellow;
 	}
 
+	article img {
+		float: left;
+		width: 100%;
+	}
+
 	article {
 			background-color: orange;
 			margin: 0;
