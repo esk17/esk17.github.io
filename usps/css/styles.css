@@ -24,12 +24,12 @@ header ul {
 	padding: 0;
 	margin: 0;
 }
-header li {
+/*header li {
 	display: inline-block;
 	width: 25%;
 	float: left;
 	text-align: center;
-}
+}*/
 header li a {
 	color: rgba(82, 160, 231, .5);
 	line-height: 2.5;
@@ -115,3 +115,16 @@ footer {
 	background-color: #303030;
 	color: #dddddd;
 }
+
+
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+}
+.navbar {
+	border-radius: transparent;
+}
+
+
+
+
